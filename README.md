@@ -11,4 +11,5 @@
 ## Developer Productivity
 - [Github Copilot](https://github.com/features/copilot)
 
-
+## Other Resource Lists
+- [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
