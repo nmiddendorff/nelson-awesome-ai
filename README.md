@@ -13,3 +13,4 @@
 
 ## Other Resource Lists
 - [awesome-ai-art](https://github.com/jonathandinu/awesome-ai-art)
+- [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html)
